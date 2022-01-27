@@ -1,6 +1,4 @@
-<strong>HI</strong>
-
-- 👋 Hi, I’m @Taubias
+- <strong> 👋 Hi, I’m @Taubias </strong>
 - 👀 I'm a french Fullstack Developer
 
 <!---
